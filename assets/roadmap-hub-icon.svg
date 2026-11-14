@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Roadmap Hub branching circuit icon</title>
+  <rect x="8" y="8" width="496" height="496" rx="112" fill="#121613" stroke="#26312a" stroke-width="18"/>
+  <g fill="none" stroke="#c4f46b" stroke-width="29" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 398h72l48-48v-68"/>
+    <path d="M223 282h31l42-42v-62l47-47"/>
+    <path d="M223 282h31l42 42v30l47 47"/>
+  </g>
+  <g fill="#c4f46b">
+    <circle cx="98" cy="398" r="29"/>
+    <circle cx="393" cy="131" r="29"/>
+    <circle cx="393" cy="401" r="29"/>
+  </g>
+  <circle cx="223" cy="282" r="40" fill="#c4f46b"/>
+  <circle cx="223" cy="282" r="24" fill="#121613"/>
+</svg>
