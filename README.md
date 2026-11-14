@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logos/logo-horizontal.svg" alt="Roadmap Hub" width="290">
+<img src="logos/logo-horizontal-dark.svg" alt="Roadmap Hub" width="290">
 
 # Interactive Learning Roadmaps
 
